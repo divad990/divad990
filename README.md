@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/divad990/divad990/blob/main/header.png?raw=true">
+<img src="https://github.com/divad990/divad990/blob/main/descarga.png?raw=true">
