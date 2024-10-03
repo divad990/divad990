@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm David, a web development studen 👨‍💻 studing on Egibide Vitoria 🚀</div>  
+### <div align="center">I'm David, a web development student 👨‍💻 studing on Egibide Vitoria 🚀</div>  
   
 
 - 🌱 I'm interested in cibersecurity  
