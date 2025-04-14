@@ -12,7 +12,7 @@
 - 🚨 I love emergencies, I volunteer at the Red Cross  
   
 
-- ❓ Ask me about anything related to roleplay and related topics  
+- ⁉️ I hate XML, XSD, DTD... Don't ask me about that.
   
 
 <br/>  
