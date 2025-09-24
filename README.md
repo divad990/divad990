@@ -4,7 +4,7 @@
 </div>  
   
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&multiline=true&width=800&height=200&lines=I'm+David%2C+a+web+development+student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+studing+on+Egibide+Vitoria+%F0%9F%9A%80" alt="Typing SVG" /></a>
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&multiline=true&width=800&height=100&lines=I'm+David%2C+a+web+development+student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+studing+on+Egibide+Vitoria+%F0%9F%9A%80" alt="Typing SVG" /></a>
   
 
 - 🌱 I'm interested in cibersecurity  
