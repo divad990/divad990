@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <img src="https://github.com/divad990/divad990/blob/main/descarga.png?raw=true" align="center" style="width: 100%" /> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+David...+%C2%A1Welcome+back!" alt="Typing SVG" /></a>
 </div>  
   
 
