@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://github.com/divad990/divad990/blob/main/descarga.png?raw=true" align="center" style="width: 100%" />
+<!-- <img src="https://github.com/divad990/divad990/blob/main/descarga.png?raw=true" align="center" style="width: 100%" /> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </div>  
   
 
