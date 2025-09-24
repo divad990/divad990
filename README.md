@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <img src="https://github.com/divad990/divad990/blob/main/descarga.png?raw=true" align="center" style="width: 100%" /> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+David...+%C2%A1Welcome+back!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+David%2C+a+web+development+student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+studing+on+Egibide+Vitoria+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>  
   
 
